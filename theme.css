@@ -1,0 +1,12 @@
+
+:root {
+  --md-sys-color-primary: #0D47A1;
+  --md-sys-color-on-primary: #FFFFFF;
+  --md-sys-color-secondary: #FFA000;
+  --md-sys-color-on-secondary: #000000;
+  --md-sys-color-tertiary: #009688;
+  --md-sys-color-background: #F5F5F5;
+  --md-sys-color-surface: #FFFFFF;
+  --md-sys-color-on-background: #212121;
+  --md-sys-color-on-surface: #212121;
+}
